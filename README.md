@@ -1,0 +1,2 @@
+# proyectoUno
+repositorio del proyecto
